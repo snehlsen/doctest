@@ -1,0 +1,5 @@
+site_name: Test Docs
+theme:
+  name: material
+  palette:
+    primary: green
